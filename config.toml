@@ -110,6 +110,7 @@ name = "Kontakt"
 url = "mailto: nermin.vkl@gmail.com"
 weight = 30
 
+[[menu.main]]
 identifier = "example"
 name = "AWS Cert"
 url = "https://www.credly.com/badges/906cfce2-bc1b-4258-b675-87f61822f4b8"
