@@ -1,7 +1,8 @@
 baseURL = "https://joyful-haupia-2d9fcd.netlify.app"
-title = "ExampleSite"
+title = "Nero marketing"
 paginate = 5
 theme = "PaperMod"
+
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
@@ -47,26 +48,18 @@ tocopen = false
   safari_pinned_tab = "<link / abs url>"
 
   [params.label]
-  text = "Home"
+  text = "Nermin Mašinović"
   icon = "/apple-touch-icon.png"
   iconHeight = 35
 
   [params.profileMode]
   enabled = true
   title = "Nermin Mašinović"
-  subtitle = "This is subtitle"
-  imageUrl = "<img location>"
-  imageWidth = 120
-  imageHeight = 120
-  imageTitle = "my image"
-
-    [[params.profileMode.buttons]]
-    name = "Posts"
-    url = "posts"
-
-    [[params.profileMode.buttons]]
-    name = "Tags"
-    url = "tags"
+  subtitle = "Dobrodošli na moju web stranicu! Ja sam Nermin, AWS certificirani web dizajner. Kreiram moderne, responsivne web stranice koje su sigurne, skalabilne i optimizirane za performanse. Trebate novu web stranicu ili redizajn postojeće? Tu sam da vam pomognem! Kontaktirajte me i zajedno ostvarimo vašu viziju."
+  imageUrl = "slike/profilna.jpg"
+  imageWidth = 150
+  imageHeight = 150
+  imageTitle = "Profilna slika"
 
   [params.homeInfoParams]
   Title = "Hi there 👋"
