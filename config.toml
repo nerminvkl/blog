@@ -55,7 +55,7 @@ tocopen = false
   [params.profileMode]
   enabled = true
   title = "Nermin Mašinović"
-  subtitle = "Dobrodošli na moju web stranicu! Ja sam AWS certificirani web dizajner. Kreiram moderne, responsivne web stranice koje su sigurne, skalabilne i optimizirane za performanse. Trebate novu web stranicu ili redizajn postojeće? Tu sam da vam pomognem! Kontaktirajte me i zajedno možemo da ostvarimo vašu viziju."
+  subtitle = "Dobrodošli na moju web stranicu! Kao AWS certificirani web dizajner, kreiram moderne, responsivne web stranice koje su sigurne, skalabilne i optimizirane za performanse. Trebate novu web stranicu ili redizajn postojeće? Kontaktirajte me i zajedno možemo ostvariti vašu viziju."
   imageUrl = "slike/profilna.jpg"
   imageWidth = 150
   imageHeight = 150
