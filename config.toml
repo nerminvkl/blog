@@ -1,5 +1,5 @@
 baseURL = "https://nermin.xyz"
-title = "nermin.xyz - test"
+title = "nermin.xyz"
 paginate = 5
 theme = "PaperMod"
 
@@ -74,6 +74,10 @@ tocopen = false
   name = "instagram"
   url = "https://www.instagram.com/iamnerminm/"
 
+  [[params.socialIcons]]
+  name = "amazon"
+  url = "https://www.credly.com/badges/906cfce2-bc1b-4258-b675-87f61822f4b8"
+
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
@@ -109,12 +113,6 @@ identifier = "example"
 name = "Kontakt"
 url = "mailto: nermin.vkl@gmail.com"
 weight = 20
-
-[[menu.main]]
-identifier = "example"
-name = "AWS Cert"
-url = "https://www.credly.com/badges/906cfce2-bc1b-4258-b675-87f61822f4b8"
-weight = 10
 
 [markup.highlight]
 noClasses = false
